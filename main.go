@@ -14,7 +14,7 @@ import (
 )
 
 func translateText(text string) string {
-	key := "b208cd5d6cfa4e77aba9e1e6a8a90ebc"
+	key := "yourkey"
 	endpoint := "https://api.cognitive.microsofttranslator.com/"
 	uri := endpoint + "/translate?api-version=3.0"
 	location := "southeastasia"
