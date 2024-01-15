@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,500
+Hello, how are you today?
+嗨，你今天感觉如何？
+
+2
+00:00:03,000 --> 00:00:06,000
+I'm doing well, thank you. How about yourself?
+我做得很好，谢谢。你自己呢？
+
+3
+00:00:06,500 --> 00:00:10,000
+Not too bad. What have you been up to lately?
+还不错。你最近在做什么？
+
+4
+00:00:10,500 --> 00:00:13,500
+I've been working on a new project at work.
+我一直在做一个新项目。
+
+5
+00:00:14,000 --> 00:00:17,000
+That sounds interesting. Tell me more about it.
+这听起来很有趣。告诉我更多关于它的信息。
+
